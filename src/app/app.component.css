@@ -1,0 +1,6 @@
+.text-large {
+  font-size: 25px; /* Tamaño de letra grande */
+  text-align: right;
+  margin-left: 15px;
+  margin-top: 15px; /* Alinea el texto a la derecha */
+}
